@@ -111,7 +111,8 @@ Follow these steps to set up and run the project on your local system:
 
 This project includes a visualization of document embeddings using PCA for a 2D projection. Below is an example scatter plot showing embeddings distributed across two principal components:
 
-![Visualization Example](visualization.png)
+
+![graph](https://github.com/user-attachments/assets/dcb9ab55-b7f5-44e6-976f-a8532c796cd5)
 
 ---
 
